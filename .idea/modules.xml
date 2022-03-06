@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/11/11.iml" filepath="$PROJECT_DIR$/11/11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/331.iml" filepath="$PROJECT_DIR$/331.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day02/advanced-day02.iml" filepath="$PROJECT_DIR$/advanced-day02/advanced-day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day03/advanced-day03.iml" filepath="$PROJECT_DIR$/advanced-day03/advanced-day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day04/advanced-day04.iml" filepath="$PROJECT_DIR$/advanced-day04/advanced-day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day05/advanced-day05.iml" filepath="$PROJECT_DIR$/advanced-day05/advanced-day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day06/advanced-day06.iml" filepath="$PROJECT_DIR$/advanced-day06/advanced-day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day07/advanced-day07.iml" filepath="$PROJECT_DIR$/advanced-day07/advanced-day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day08/advanced-day08.iml" filepath="$PROJECT_DIR$/advanced-day08/advanced-day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day09/advanced-day09.iml" filepath="$PROJECT_DIR$/advanced-day09/advanced-day09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day10/advanced-day10.iml" filepath="$PROJECT_DIR$/advanced-day10/advanced-day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day11/advanced-day11.iml" filepath="$PROJECT_DIR$/advanced-day11/advanced-day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day12/advanced-day12.iml" filepath="$PROJECT_DIR$/advanced-day12/advanced-day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day13/advanced-day13.iml" filepath="$PROJECT_DIR$/advanced-day13/advanced-day13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day14/advanced-day14.iml" filepath="$PROJECT_DIR$/advanced-day14/advanced-day14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day15/advanced-day15.iml" filepath="$PROJECT_DIR$/advanced-day15/advanced-day15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day16/advanced-day16.iml" filepath="$PROJECT_DIR$/advanced-day16/advanced-day16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day17/advanced-day17.iml" filepath="$PROJECT_DIR$/advanced-day17/advanced-day17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advanced-day18/advanced-day18.iml" filepath="$PROJECT_DIR$/advanced-day18/advanced-day18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09/day09.iml" filepath="$PROJECT_DIR$/day09/day09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manager/manager.iml" filepath="$PROJECT_DIR$/manager/manager.iml" />
+    </modules>
+  </component>
+</project>
